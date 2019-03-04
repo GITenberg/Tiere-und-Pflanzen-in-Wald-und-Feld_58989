@@ -1,5 +1,5 @@
 _repo: Tiere-und-Pflanzen-in-Wald-und-Feld_58989
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Kriete, Fritz
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Rabes, Otto
     gutenberg_agent_id: '50254'
     url: http://www.gutenberg.org/2009/agents/50254
+covers:
+- cover_type: archival
+  image_path: 58989-h/images/cover.jpg
 creator:
   author:
     agent_name: Buckley, Arabella B. (Arabella Burton)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1854
     wikipedia: https://en.wikipedia.org/wiki/Arabella_Buckley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58989#Tiere-und-Pflanzen-in-Wald-und-Feld
 gutenberg_issued: '2019-02-28'
 gutenberg_type: Text
 identifiers:
